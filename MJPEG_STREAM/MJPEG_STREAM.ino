@@ -15,7 +15,7 @@ using namespace websockets;
 
 // SERVER endpoints HOME
 const char *mjpegURL = "http://192.168.1.75:3000/stream";
-const char *wsURL = "ws://192.168.1.75:3000/touch"; 
+const char *wsURL = "ws://192.168.2.75:3000/touch"; 
 */
 
 //MAKE SURE NETWORK WHERE SERVER IS, IS PRIVATE (E.G SERVER IS DISCOVERABLE ON NETWORK SO CLIENT CAN COMMUNICATE WITH IT)
@@ -31,8 +31,8 @@ const char *password = "Demo3276";
 
 
 // SERVER endpoints HOME
-const char *mjpegURL = "http://192.168.0.109:3000/stream";
-const char *wsURL = "ws://192.168.0.109:3000/touch"; 
+const char *mjpegURL = "http://192.168.2.109:3000/stream";
+const char *wsURL = "ws://192.168.2.109:3000/touch"; 
 
 
 // BOARD, LCD & TOUCH
