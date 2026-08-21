@@ -7,3 +7,6 @@ MJPEG stream and server for displaying web pages on an ESP32-S3 4B
 3) server.mjs - server code to point to webpage and set up /touch ws and /stream http endpoints
 
 ## Setup
+
+## TODO
+- add server.mjs file
