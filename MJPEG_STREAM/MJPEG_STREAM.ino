@@ -21,10 +21,6 @@ const char *wsURL = "ws://192.168.2.75:3000/touch";
 //MAKE SURE NETWORK WHERE SERVER IS, IS PRIVATE (E.G SERVER IS DISCOVERABLE ON NETWORK SO CLIENT CAN COMMUNICATE WITH IT)
 //e.g for windows make network profile type private
 
-// WIFI SITE
-/*const char *ssid = "KonnectedPOS"; 
-const char *password = "POSonly4D$";*/
-
 // WIFI EP Demo
 const char *ssid = "DemoNet"; 
 const char *password = "Demo3276";
