@@ -7,6 +7,10 @@ MJPEG stream and server for displaying web pages on an ESP32-S3 4B
 3) server.mjs - server code to point to webpage and set up /touch ws and /stream http endpoints
 
 ## Setup
+1) copy mjpeg_steam and libraries to a esp32
+2) edit wifi details, and server address to look for
+3) run npm install in server dir
+4) runs start.sh in server dir
 
 ## TODO
-- add server.mjs file
+- test git clone works
